@@ -6,4 +6,4 @@ layout: default
 Dave Kroondyk
 =====================
 
-Coming soon.
+Coming soon. Very soon.
